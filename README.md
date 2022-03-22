@@ -1,2 +1,2 @@
 # BinarySearchTree
-C++ Program for creating a Binary Search Tree
+C++ Program for creating an Inorder Binary Search Tree
